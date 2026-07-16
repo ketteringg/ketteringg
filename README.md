@@ -2,7 +2,7 @@
 
 I build pipelines that turn messy genomic and clinical data into reproducible and validated tools/outputs that are honest about their own limits.
 
-I'm an M.S. Biomedical Informatics candidate at WashU School of Medicine (Institute for Informatics, Data Science & Biostatistics), where I was named I2DB Scholar of the Year for 2024 to 2025. I currently work in the Baldridge Lab on genomic analysis workflows for the NIH All of Us program and the Undiagnosed Diseases Network. I am scheduled to graduate in December of 2026. 
+I'm an M.S. Biomedical Informatics candidate at WashU School of Medicine's Institute for Informatics, Data Science & Biostatistics, where I was named I2DB Scholar of the Year for 2024 to 2025. I currently work in the Baldridge Lab on genomic analysis workflows for the NIH All of Us program and the Undiagnosed Diseases Network. I am scheduled to graduate in December of 2026. 
 
 **What I'm doing right now:**
 
