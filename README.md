@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Gabriel
 
-<!--
-**ketteringg/ketteringg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build pipelines that turn messy genomic and clinical data into results people can actually trust. That means reproducible, validated, and honest about their own limits.
 
-Here are some ideas to get you started:
+I'm an M.S. Biomedical Informatics candidate at WashU School of Medicine (Institute for Informatics, Data Science & Biostatistics), where I was named I2DB Scholar of the Year for 2024 to 2025. I currently work in the Baldridge Lab on genomic analysis workflows for the NIH All of Us program and the Undiagnosed Diseases Network.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm doing right now:**
+
+- Designing genomic pipelines across 414,000 whole genome sequences and 275M+ variants (VCF, BGZ, VDS, HAIL) on the All of Us cloud platform
+- Writing up a manuscript comparing AI-extracted phenotype terms against manually curated clinical annotations. It's a double benchmark that checks GPT and Claude against both human curators and each other when scoring phenotypes out of clinician notes, with temporal controls so enrollment periods years apart still compare fairly
+- Building a variant qualification dashboard for Model Organism Screening Center (MOSC) submissions. It aggregates population constraint data, clinical evidence, and ortholog phenotype records so an investigator can quickly judge whether a candidate gene is worth committing weeks of fly, worm, or fish work to, before that investment is made
+- Interested in the overlap of genomics, clinical EHR data, and applied ML, with one hard rule: a model's honesty matters more than its accuracy score
+- Before this, two decades of competitive rugby, including a first round Major League Rugby draft selection. Team sport taught me most of what I know about performing under pressure and being accountable to a group
+
+Pinned projects below. One predicts diabetes risk from EHR data and catches a labeling artifact most pipelines would silently miss. The other lets researchers query rare variant phenotypes across 875,000+ All of Us participants without writing SQL.
+
+Reach me at g.c.kettering@wustl.edu or [LinkedIn](https://www.linkedin.com/in/gabriel-kettering-ba9aa7182/)
