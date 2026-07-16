@@ -14,4 +14,4 @@ I'm an M.S. Biomedical Informatics candidate at WashU School of Medicine (Instit
 
 Pinned projects below. One predicts diabetes risk from EHR data and catches a labeling artifact most pipelines would silently miss. The other lets researchers query rare variant phenotypes across 875,000+ All of Us participants without writing SQL.
 
-Reach me at g.c.kettering@wustl.edu or [LinkedIn](https://www.linkedin.com/in/gabriel-kettering-ba9aa7182/)
+Reach me at ketteringg@gmail.com or [LinkedIn](https://www.linkedin.com/in/gabriel-kettering-ba9aa7182/)
