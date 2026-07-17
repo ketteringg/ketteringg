@@ -10,7 +10,7 @@ I'm an M.S. Biomedical Informatics candidate at WashU School of Medicine's Insti
 - Writing up a manuscript comparing AI-extracted phenotype terms against manually curated clinical annotations. It's a double benchmark that checks GPT and Claude against both human curators and each other when scoring phenotypes out of clinician notes, with temporal controls so enrollment periods years apart still compare fairly
 - Building a variant qualification dashboard for Model Organism Screening Center (MOSC) submissions. It aggregates population constraint data, clinical evidence, and ortholog phenotype records so an investigator can quickly judge whether a candidate gene is worth committing weeks of fly, worm, or fish work to, before that investment is made
 - Interested in the overlap of genomics, clinical EHR data, and applied ML, with one hard rule: a model's honesty matters more than its accuracy score
-- Before this, two decades of competitive rugby, including a first round Major League Rugby draft selection. Team sport taught me most of what I know about performing under pressure and being accountable to a group
+- Before this, two decades of competitive rugby, including a first round Major League Rugby draft selection. Team sport taught me much of what I know about intentionality, performing under pressure, and being accountable to a group
 
 Pinned projects below. One predicts diabetes risk from EHR data and catches a labeling artifact most pipelines would silently miss. The other lets researchers query rare variant phenotypes across 875,000+ All of Us participants without writing SQL.
 
